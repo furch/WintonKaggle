@@ -1,5 +1,6 @@
 rm(list=ls())
 # To replicate my output file, follow these steps:
+# (0) download the files train.csv, sample_submission_2.csv, and test_2.csv from https://www.kaggle.com/c/the-winton-stock-market-challenge/data
 # (1) un-comment the line that starts with: setwd("/YourPathHere")
 # (2) in the setwd() replace "/YourPathHere" with the path to the archive
 # (3) name your training data CSV file "train.csv"

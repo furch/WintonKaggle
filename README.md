@@ -1,5 +1,3 @@
-# WintonKaggle
-# IN PROGRESS - December 5, 2016
 # Code and files for the Winton Stock Market Challenge Kaggle competition from 2015-2016. The predictions generated here finished "in the money," 4th out of 832 entrants (cash prize). 
 
 # There are no sub-folders.
